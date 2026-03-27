@@ -58,20 +58,20 @@ Follow these guides in sequence. Each is self-contained but builds on the previo
 - Hardening and tuningg.
 
 ### 2. ELK Stack & Wazuh Setup
-[Core SIEM stack Guide](02.%20%20Cores_SIEM%20Stack.md)  
+[Core SIEM stack Guide](02.%20%20Cores%20%7C%20SIEM%20Stack.md)  
 - Install Elasticsearch, Kibana, Filebeat, Vector and Wazuh Manager.  
 - Secure configurations (TLS, keystores for passwords).  
 - Vector pipeline for Wazuh alerts.  
 - Kibana data views.
 
 ### 3. Zeek Integration (Proxmox PCI Passthrough NIC)
-[Zeek Guide](03.%20Dead-Eye_Zeek-Filebeat.md)  
+[Zeek Guide](03.%20Dead%20Eye%20%7C%20Zeek-Filebeat.md)  
 - Add and verify PCI NIC.  
 - Install and configure Zeek.
 - Kibana data view for Zeek.
 
 ### 4. pfSense Logs Integration
-[pfSense Guide](04.%20Fence_pfSense-pfBlocker-Suricata.md) 
+[pfSense Guide](04.%20Fence%20%7C%20pfSense-pfBlocker-Suricata.md) 
 - Install and configure Syslog-ng.
 - Configure system logs for Syslog-ng.
 - Configure Syslog-ng for Suricata
@@ -80,19 +80,19 @@ Follow these guides in sequence. Each is self-contained but builds on the previo
 - Kibana data views for Suricata, pfSense syslog and pfBlockerNG.
 
 ### 5. GeoIP Enrichment
-[GeoIP](./05.%20Talisman_GeoIP%20Enrichment.md)
+[GeoIP](05.%20Talisman%20%7C%20GeoIP%20Enrichment.md)
 - Integrate MaxMind and download GeoLite2-City.mmdb
 - Update Vector transforms and sinks
 - Add Elasticsearch Index Templates
 
 ### 6. Wazuh Agents & Endpoint enrollment
-[Wazuh Agents](./06.%20Pinkertons_Wazuh%20Agents-Enrollment.md)
+[Wazuh Agents](06.%20Pinkertons%20%7C%20Wazuh-Agents.md)
 - Manage agent and key for CLI
 - Create and assign groups
 - Agents installation guide for Windows & Linux
 
 ### 7. Kibana Dashboards
-[Kibana](./07.%20Trinkets_Kibana%20Dashboards.md)
+[Kibana](07.%20Trinkets%20%7C%20Kibana%20Dashboards.md)
 - Setup SOC Overview Dashboard
 - Setup Threat Hunting Dashboard
 - Setup Wazuh Security Dashboard
