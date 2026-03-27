@@ -52,7 +52,7 @@ This repo provides step-by-step guides to deploy a high-performance SIEM for thr
 Follow these guides in sequence. Each is self-contained but builds on the previous.
 
 ### 1. Debian 13 Installation and Configuration
-[Debian Setup](01.%20Valentine%20_Debian%2013.md)
+[Debian Setup](01. Valentine | Debian 2013.md)
 - VM setup on Proxmox VE.  
 - Minimal netinst install with LVM partitioning.  
 - Hardening and tuningg.
