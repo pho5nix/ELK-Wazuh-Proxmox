@@ -97,6 +97,12 @@ Follow these guides in sequence. Each is self-contained but builds on the previo
 - Setup Threat Hunting Dashboard
 - Setup Wazuh Security Dashboard
 
+### 8. TraceMarshal SOC Agent
+[Tracemarshal](08.%20TraceMarshal-SOC-Agent)
+- Integrate an OpenClaw AI SOC Agent to SIEM
+- Threat detection, incident triage and log correlation
+- Scheduled reporting and alerts communication via dedicated channel
+
 ## Usage
 1. Clone the repo.
 2. Follow the guides sequentially.  
