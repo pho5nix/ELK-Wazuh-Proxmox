@@ -4,7 +4,8 @@
 ## Architecture Overview
 ---
 
-<img width="1536" height="1024" alt="RTR_diagram" src="https://github.com/user-attachments/assets/132cf195-9751-4903-82b9-2e9046859606" />
+<img width="1386" height="922" alt="{B8035B7A-72A6-43A8-BFCF-D08C75CAE0F7}" src="https://github.com/user-attachments/assets/1dba5bab-3679-41c0-93fd-2416cdf63d1b" />
+
 
 ---
 
